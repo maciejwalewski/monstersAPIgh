@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Barry",
+    "description": "Loves to eat semicolons 😋.",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/seledin-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/seledin-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.52",
+      "danger": "0.24",
+      "frequency": "0.95"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Fooz",
+    "description": "Listens to Last christmas in june 🎶. Outdates dependencies. Enjoys dummy jokes 🍞.",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/yellow-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/yellow-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.22",
+      "danger": "0.44",
+      "frequency": "0.17"
+    }
+  }
+}

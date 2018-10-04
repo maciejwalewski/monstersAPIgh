@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Dee",
+    "description": "Somebody touched his (code) spaghett! 🍝.",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/pinky-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/pinky-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.50",
+      "danger": "0.43",
+      "frequency": "0.71"
+    }
+  }
+}

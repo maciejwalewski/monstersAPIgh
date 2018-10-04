@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Fooz",
+      "slug": "fooz",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/yellow-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/yellow-500x500.jpg"
+      }
+    },
+    {
+      "name": "Bazz",
+      "slug": "bazz",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/blue-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/blue-500x500.jpg"
+      }
+    },
+    {
+      "name": "Barry",
+      "slug": "barry",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/seledin-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/seledin-500x500.jpg"
+      }
+    },
+    {
+      "name": "Koo",
+      "slug": "koo",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/violet-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/violet-500x500.jpg"
+      }
+    },
+    {
+      "name": "Roar",
+      "slug": "roar",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/green-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/green-500x500.jpg"
+      }
+    },
+    {
+      "name": "Dee",
+      "slug": "dee",
+      "images": {
+        "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/pinky-150x150.jpg",
+        "big": "http://maciejwalewski.github.io/monstersAPIgh/static/pinky-500x500.jpg"
+      }
+    }
+  ]
+}

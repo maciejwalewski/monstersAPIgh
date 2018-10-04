@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Bazz",
+    "description": "Response with an error is a happy response",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/blue-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/blue-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.12",
+      "danger": "0.33",
+      "frequency": "0.76"
+    }
+  }
+}

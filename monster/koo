@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Koo",
+    "description": "Outdates dependencies.",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/violet-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/violet-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.72",
+      "danger": "0.27",
+      "frequency": "0.44"
+    }
+  }
+}

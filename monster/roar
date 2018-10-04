@@ -1,0 +1,16 @@
+{
+  "data":
+  {
+    "name": "Roar",
+    "description": "Code works only on his machine. Changes APIs request params without saying a word 🤐.",
+    "images": {
+      "thumb": "http://maciejwalewski.github.io/monstersAPIgh/static/green-150x150.jpg",
+      "big": "http://maciejwalewski.github.io/monstersAPIgh/static/green-500x500.jpg"
+    },
+    "statistics": {
+      "power": "0.33",
+      "danger": "0.66",
+      "frequency": "0.84"
+    }
+  }
+}
